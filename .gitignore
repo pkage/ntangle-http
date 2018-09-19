@@ -1,0 +1,5 @@
+env_nhttp/
+__pycache__/
+*.pyc
+**/*.pyc
+.DS_Store
